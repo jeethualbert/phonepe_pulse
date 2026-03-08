@@ -11,11 +11,11 @@ An interactive dashboard was built using Streamlit to explore the data through d
 
 The objective of this project is to:
 
--> Extract large-scale PhonePe transaction data from JSON files
--> Transform and structure the data for analysis
--> Store the data in a relational database
--> Build interactive visualizations to analyze digital payment trends
--> Identify patterns in transactions, user engagement, and insurance usage across India
+* Extract large-scale PhonePe transaction data from JSON files
+* Transform and structure the data for analysis
+* Store the data in a relational database
+* Build interactive visualizations to analyze digital payment trends
+* Identify patterns in transactions, user engagement, and insurance usage across India
 
 **🛠️ Technologies Used**
 
